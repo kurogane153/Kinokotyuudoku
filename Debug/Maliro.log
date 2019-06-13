@@ -1,0 +1,14 @@
+﻿2019/06/13 14:23:44 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "D:\Visual Studio\Maliro\Maliro.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt mario.cpp
+         mario.cpp
+     1>d:\visual studio\maliro\mario.cpp(6): warning C4305: '初期化中' : 'double' から 'const float' へ切り詰めます。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Visual Studio\Maliro\Debug\Maliro.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Visual Studio\Maliro\Debug\Maliro.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Visual Studio\Maliro\Debug\Maliro.lib" /MACHINE:X86 Debug\mario.obj
+         Maliro.vcxproj -> D:\Visual Studio\Maliro\Debug\Maliro.exe
+     1>プロジェクト "D:\Visual Studio\Maliro\Maliro.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:02.52
